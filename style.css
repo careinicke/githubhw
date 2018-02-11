@@ -25,4 +25,14 @@ p {
   margin-right: auto;
 }
 
+@media (min-width: 401px) and (max-width: 768px) {
+  h1 {
+    font-size: 100px
+  }
+  p {
+    font-size: 24px;
+    max-width: 500px;
+  }
+}
+
 </stylesheet>
