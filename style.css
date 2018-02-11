@@ -4,6 +4,12 @@
   text-align: center;
 }
 
+h1 {
+  font-family: "Arial";
+  font-size: 200px;
+  text-align: center;
+}
+
 h2 {
   font-family: "Arial";
   font-weight: "lighter";
